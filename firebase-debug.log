@@ -1,0 +1,34 @@
+[debug] [2021-04-12T12:27:10.759Z] ----------------------------------------------------------------------
+[debug] [2021-04-12T12:27:10.764Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\yuzha\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2021-04-12T12:27:10.764Z] CLI Version:   9.9.0
+[debug] [2021-04-12T12:27:10.765Z] Platform:      win32
+[debug] [2021-04-12T12:27:10.765Z] Node Version:  v14.15.4
+[debug] [2021-04-12T12:27:10.767Z] Time:          Mon Apr 12 2021 07:27:10 GMT-0500 (北美中部夏令时间)
+[debug] [2021-04-12T12:27:10.767Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-12T12:27:10.772Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=193574522&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+[info] 
+[debug] [2021-04-12T12:33:33.121Z] >>> HTTP REQUEST POST https://accounts.google.com/o/oauth2/token  
+ {"code":"    self.proxy = \"http://127.0.0.1:7890\";","client_id":"563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com","client_secret":"j9iVZfS8kkCEFUPaAeJV0sAi","redirect_uri":"urn:ietf:wg:oauth:2.0:oob","grant_type":"authorization_code"}
+[debug] [2021-04-12T12:33:47.627Z] ----------------------------------------------------------------------
+[debug] [2021-04-12T12:33:47.629Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\yuzha\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login --no-localhost
+[debug] [2021-04-12T12:33:47.630Z] CLI Version:   9.9.0
+[debug] [2021-04-12T12:33:47.630Z] Platform:      win32
+[debug] [2021-04-12T12:33:47.630Z] Node Version:  v14.15.4
+[debug] [2021-04-12T12:33:47.631Z] Time:          Mon Apr 12 2021 07:33:47 GMT-0500 (北美中部夏令时间)
+[debug] [2021-04-12T12:33:47.631Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-12T12:33:47.634Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=177269790&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+[info] 
